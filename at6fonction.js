@@ -10,11 +10,11 @@ function addition (a,b) {
   
   return a + b
 }
-console.log(addition(4,6))
+console.log(addition(4,6));
 
 // 3--
 function esPair (nombre) {
-  if (n % 2 == 0){
+  if (nombre % 2 == 0){
     return true;
   }
   return false;
